@@ -1,0 +1,30 @@
+learn sagemaker in 6 Days course outline.
+
+Day 1: Theory what is sagemaker, why we use it, advantages and disadvantages of sagemaker & try to implement tabular classification using XGboost algorithm.
+Day 2: Try to implement machine learning algorithm used in sagemaker with help of sklearn framework
+Day 3:Image classification using tensorflow & aws pre train algorithm
+Day 4:Text classification using sagemaker BlazingText algorithm
+Day 5:Solve the time series problem using DeepAR algorithm in sagemaker.
+Day 6:Automl
+
+Six Days Assignments.
+
+Note: if you don't do the assignment I will not teach you further.
+
+Day 1: Download wine quality dataset link below. build, train & deploy a model using sagemaker.
+dataset link:https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+
+Day 2: Download cancer dataset link below. build, train & deploy model using sagemaker Sklearn frame work using prthon sdk.
+dataset link: https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
+
+Day 3: Download cancer dataset link below. build, train & deploy model using sagemaker Sklearn frame work using prthon sdk.
+dataset link: https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
+
+Day 4: Download cancer dataset link below. build, train & deploy model using sagemaker Tensorflow frame work using prthon sdk & Sagemaker pre train algorithm 
+Dataset link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+Day 5: Download bitcoin historical data link below. build, train & deploy model using sagemaker pretrain DeepAR time series algorithm.
+Dataset link: https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
+
+Day 6: Download bank additional full csv link below. build, train & deploy model using sagemaker AutoMl.
+Dataset link: https://www.kaggle.com/datasets/sahistapatel96/bankadditionalfullcsv
